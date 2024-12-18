@@ -1,0 +1,1 @@
+I created a categorized list demo in Jetpack Compose using a LazyColumn. The list displays names grouped alphabetically (e.g., A, B, C, D) with sticky headers for each category. This project demonstrates how to effectively organize and display data in a clean and user-friendly layout using Jetpack Compose.
